@@ -3,3 +3,4 @@ const myPromise = new promise((resolve, reject) => {
 });
 
 // const myPromise -> Declare a variable to hold the promise
+
